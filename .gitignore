@@ -1,0 +1,51 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyz
+*.pyw
+*.pytest_cache
+
+# IDEs
+.vscode/
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Logs
+logs/
+*.log
+
+# Compiled files
+*.class
+*.jar
+*.war
+*.ear
+*.egg-info/
+dist/
+build/
+*.egg
+*.eggs
+*.tox/
+*.venv/
+*.virtualenv/
+*.env/
+*.venv.bak/
+*.idea/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyz
+*.pyw
+*.DS_Store
+
+# Dependency directories
+venv/
+env/
+envs/
+
+# Model
+model/
